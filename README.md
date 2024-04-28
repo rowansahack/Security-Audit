@@ -1,2 +1,2 @@
 # Security-Audit
-A document showing my ability to determine a security breach's cause, and possible next actions to get the incident resolved.
+A document showing my ability to conduct a security audit, and recomendations for improving security posture.
